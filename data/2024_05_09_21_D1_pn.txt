@@ -1,0 +1,2421 @@
+[PPIC_PINFile]
+[Header]
+	Version = 1.0
+	DateCompiled = 10:56:47, May 22 2024
+[End]
+[ScanInfo]
+	ExciterCurrent = 1.000000 in
+	ExciterLiftOff = 10.000000 in
+	DetectorLiftOff = 4.000000 in
+	AxialSeperation = 0.000000 in
+	OdoDistFactor = 1.207547
+	CustomNormAmp = 3438.399902
+	CustomNormPhase = 59.413597
+[End]
+[BeginJoints]
+	PositionUnitType = feet
+	StationUnitType = feet
+	OdoDistFactor = 1.207547
+[Joint]
+	Flags = 0
+	Length = 3.767689 m
+	RealLength = 924.051453 m
+	Start = 0.000000 m
+	StartIndex = 0 
+	StopIndex = 1421 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2505
+	Flags = 0
+	Length = 4.774083 m
+	RealLength = 920.283569 m
+	Start = 3.767689 m
+	StartIndex = 1421 
+	StopIndex = 2463 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2600
+	Flags = 0
+	Length = 5.076001 m
+	RealLength = 915.509644 m
+	Start = 8.541771 m
+	StartIndex = 2463 
+	StopIndex = 2955 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2601
+	Flags = 0
+	Length = 4.824400 m
+	RealLength = 910.433594 m
+	Start = 13.617772 m
+	StartIndex = 2955 
+	StopIndex = 3336 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2602
+	Flags = 0
+	Length = 4.830694 m
+	RealLength = 905.609192 m
+	Start = 18.442173 m
+	StartIndex = 3336 
+	StopIndex = 3716 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2603
+	PPICLabel = end too small
+	Flags = 1
+	Length = 4.975359 m
+	RealLength = 900.778503 m
+	Start = 23.272865 m
+	StartIndex = 3716 
+	StopIndex = 4077 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.892047, 0.054816, 0.933490, 0.053602, 0.720003 m, 3769
+[End]
+[Joint]
+	Label = 2604
+	Flags = 0
+	Length = 4.874723 m
+	RealLength = 895.803284 m
+	Start = 28.248224 m
+	StartIndex = 4077 
+	StopIndex = 4404 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2605
+	Flags = 0
+	Length = 5.025684 m
+	RealLength = 890.928467 m
+	Start = 33.122948 m
+	StartIndex = 4404 
+	StopIndex = 4767 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2606
+	Flags = 0
+	Length = 4.975359 m
+	RealLength = 885.902771 m
+	Start = 38.148632 m
+	StartIndex = 4767 
+	StopIndex = 5068 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2607
+	Flags = 0
+	Length = 4.679738 m
+	RealLength = 880.927368 m
+	Start = 43.123993 m
+	StartIndex = 5068 
+	StopIndex = 5462 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2608
+	Flags = 0
+	Length = 4.874712 m
+	RealLength = 876.247620 m
+	Start = 47.803730 m
+	StartIndex = 5462 
+	StopIndex = 5807 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2609
+	Flags = 0
+	Length = 4.780383 m
+	RealLength = 871.372925 m
+	Start = 52.678440 m
+	StartIndex = 5807 
+	StopIndex = 6144 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2610
+	Flags = 0
+	Length = 4.925667 m
+	RealLength = 866.592529 m
+	Start = 57.458824 m
+	StartIndex = 6144 
+	StopIndex = 6481 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2611
+	Flags = 0
+	Length = 4.824394 m
+	RealLength = 861.666931 m
+	Start = 62.384491 m
+	StartIndex = 6481 
+	StopIndex = 6797 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2612
+	Flags = 0
+	Length = 4.830691 m
+	RealLength = 856.842529 m
+	Start = 67.208885 m
+	StartIndex = 6797 
+	StopIndex = 7117 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2613
+	Flags = 0
+	Length = 5.025689 m
+	RealLength = 852.011780 m
+	Start = 72.039574 m
+	StartIndex = 7117 
+	StopIndex = 7427 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2614
+	Flags = 0
+	Length = 4.723753 m
+	RealLength = 846.986145 m
+	Start = 77.065262 m
+	StartIndex = 7427 
+	StopIndex = 8031 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2615
+	Flags = 1
+	Length = 5.025684 m
+	RealLength = 842.262329 m
+	Start = 81.789017 m
+	StartIndex = 8031 
+	StopIndex = 8370 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.972665, 0.065566, 1.049906, -0.001165, 2.642727 m, 8199
+[End]
+[Joint]
+	Label = 2616
+	Flags = 0
+	Length = 4.679742 m
+	RealLength = 837.236633 m
+	Start = 86.814705 m
+	StartIndex = 8370 
+	StopIndex = 9947 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2617
+	Flags = 0
+	Length = 5.025675 m
+	RealLength = 832.556885 m
+	Start = 91.494446 m
+	StartIndex = 9947 
+	StopIndex = 11074 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2618
+	Flags = 0
+	Length = 4.925039 m
+	RealLength = 827.531189 m
+	Start = 96.520119 m
+	StartIndex = 11074 
+	StopIndex = 11691 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2619
+	Flags = 0
+	Length = 4.981659 m
+	RealLength = 822.606262 m
+	Start = 101.445160 m
+	StartIndex = 11691 
+	StopIndex = 12120 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2620
+	Flags = 0
+	Length = 4.874707 m
+	RealLength = 817.624573 m
+	Start = 106.426819 m
+	StartIndex = 12120 
+	StopIndex = 12554 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2621
+	Flags = 0
+	Length = 4.875349 m
+	RealLength = 812.749878 m
+	Start = 111.301521 m
+	StartIndex = 12554 
+	StopIndex = 12949 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2622
+	Flags = 0
+	Length = 4.975371 m
+	RealLength = 807.874512 m
+	Start = 116.176872 m
+	StartIndex = 12949 
+	StopIndex = 13273 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2623
+	Flags = 0
+	Length = 4.824403 m
+	RealLength = 802.899109 m
+	Start = 121.152245 m
+	StartIndex = 13273 
+	StopIndex = 13573 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2624
+	Flags = 0
+	Length = 4.931327 m
+	RealLength = 798.074768 m
+	Start = 125.976646 m
+	StartIndex = 13573 
+	StopIndex = 13878 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2625
+	Flags = 0
+	Length = 4.925048 m
+	RealLength = 793.143311 m
+	Start = 130.907974 m
+	StartIndex = 13878 
+	StopIndex = 14195 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2626
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 788.218384 m
+	Start = 135.833023 m
+	StartIndex = 14195 
+	StopIndex = 14558 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2627
+	Flags = 0
+	Length = 4.830700 m
+	RealLength = 783.343689 m
+	Start = 140.707733 m
+	StartIndex = 14558 
+	StopIndex = 14989 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2628
+	Flags = 0
+	Length = 4.774081 m
+	RealLength = 778.512939 m
+	Start = 145.538437 m
+	StartIndex = 14989 
+	StopIndex = 15280 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2629
+	Flags = 0
+	Length = 4.975371 m
+	RealLength = 773.738831 m
+	Start = 150.312515 m
+	StartIndex = 15280 
+	StopIndex = 15585 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2630
+	Flags = 1
+	Length = 4.830673 m
+	RealLength = 768.763489 m
+	Start = 155.287888 m
+	StartIndex = 15585 
+	StopIndex = 15904 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.997000, 0.063362, 1.054073, 0.020357, 2.542647 m, 15743
+	Defect = 0.994935, 0.063754, 1.054073, 0.020357, 3.176711 m, 15788
+[End]
+[Joint]
+	Label = 2631
+	Flags = 1
+	Length = 4.774090 m
+	RealLength = 763.932739 m
+	Start = 160.118561 m
+	StartIndex = 15904 
+	StopIndex = 17036 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.931649, 0.092111, 1.029548, -0.000783, 1.591371 m, 16003
+[End]
+[Joint]
+	Label = 2632
+	Flags = 0
+	Length = 5.026298 m
+	RealLength = 759.158752 m
+	Start = 164.892654 m
+	StartIndex = 17036 
+	StopIndex = 18545 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2633
+	Flags = 1
+	Length = 4.774071 m
+	RealLength = 754.132446 m
+	Start = 169.918945 m
+	StartIndex = 18545 
+	StopIndex = 19271 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.886090, 0.065325, 0.940406, 0.016684, 1.966306 m, 18714
+	Defect = 0.882828, 0.076871, 0.940938, 0.015138, 2.809782 m, 18800
+[End]
+[Joint]
+	Label = 2634
+	Flags = 0
+	Length = 4.981687 m
+	RealLength = 749.358398 m
+	Start = 174.693024 m
+	StartIndex = 19271 
+	StopIndex = 19867 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2635
+	Flags = 0
+	Length = 4.874698 m
+	RealLength = 744.376648 m
+	Start = 179.674713 m
+	StartIndex = 19867 
+	StopIndex = 20303 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2636
+	Flags = 0
+	Length = 4.925039 m
+	RealLength = 739.502014 m
+	Start = 184.549408 m
+	StartIndex = 20303 
+	StopIndex = 20697 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2637
+	Flags = 0
+	Length = 4.874735 m
+	RealLength = 734.577026 m
+	Start = 189.474442 m
+	StartIndex = 20697 
+	StopIndex = 21129 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2638
+	Flags = 0
+	Length = 4.931327 m
+	RealLength = 729.702148 m
+	Start = 194.349182 m
+	StartIndex = 21129 
+	StopIndex = 21512 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2639
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 724.770874 m
+	Start = 199.280502 m
+	StartIndex = 21512 
+	StopIndex = 21844 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2640
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 719.896179 m
+	Start = 204.155228 m
+	StartIndex = 21844 
+	StopIndex = 22235 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2641
+	Flags = 0
+	Length = 5.025702 m
+	RealLength = 715.021423 m
+	Start = 209.029938 m
+	StartIndex = 22235 
+	StopIndex = 22701 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2642
+	Flags = 0
+	Length = 4.780341 m
+	RealLength = 709.995728 m
+	Start = 214.055649 m
+	StartIndex = 22701 
+	StopIndex = 23214 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2643
+	Flags = 0
+	Length = 4.975994 m
+	RealLength = 705.215393 m
+	Start = 218.835983 m
+	StartIndex = 23214 
+	StopIndex = 24021 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2644
+	Flags = 1
+	Length = 4.673464 m
+	RealLength = 700.239380 m
+	Start = 223.811981 m
+	StartIndex = 24021 
+	StopIndex = 24372 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.946341, 0.053015, 0.998915, 0.013886, 3.134134 m, 24242
+[End]
+[Joint]
+	Label = 2645
+	Flags = 0
+	Length = 4.981631 m
+	RealLength = 695.565979 m
+	Start = 228.485443 m
+	StartIndex = 24372 
+	StopIndex = 25068 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2646
+	Flags = 0
+	Length = 4.824412 m
+	RealLength = 690.584229 m
+	Start = 233.467072 m
+	StartIndex = 25068 
+	StopIndex = 25523 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2647
+	Flags = 0
+	Length = 4.975361 m
+	RealLength = 685.759888 m
+	Start = 238.291489 m
+	StartIndex = 25523 
+	StopIndex = 26026 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2648
+	Flags = 0
+	Length = 4.975343 m
+	RealLength = 680.784485 m
+	Start = 243.266846 m
+	StartIndex = 26026 
+	StopIndex = 26653 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2649
+	Flags = 0
+	Length = 4.780396 m
+	RealLength = 675.809265 m
+	Start = 248.242188 m
+	StartIndex = 26653 
+	StopIndex = 27020 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2650
+	Flags = 0
+	Length = 4.925020 m
+	RealLength = 671.028870 m
+	Start = 253.022583 m
+	StartIndex = 27020 
+	StopIndex = 27407 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2651
+	Flags = 1
+	Length = 4.824431 m
+	RealLength = 666.103882 m
+	Start = 257.947601 m
+	StartIndex = 27407 
+	StopIndex = 28067 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.955278, 0.068247, 0.991035, 0.028658, 1.989265 m, 27576
+[End]
+[Joint]
+	Label = 2652
+	Flags = 0
+	Length = 4.880986 m
+	RealLength = 661.279297 m
+	Start = 262.772034 m
+	StartIndex = 28067 
+	StopIndex = 28476 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2653
+	Flags = 0
+	Length = 5.075988 m
+	RealLength = 656.398315 m
+	Start = 267.653015 m
+	StartIndex = 28476 
+	StopIndex = 28887 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2654
+	Flags = 0
+	Length = 4.774741 m
+	RealLength = 651.322327 m
+	Start = 272.729004 m
+	StartIndex = 28887 
+	StopIndex = 29206 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2655
+	Flags = 0
+	Length = 5.371654 m
+	RealLength = 646.547546 m
+	Start = 277.503754 m
+	StartIndex = 29206 
+	StopIndex = 29570 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2656
+	Flags = 0
+	Length = 4.384086 m
+	RealLength = 641.176025 m
+	Start = 282.875397 m
+	StartIndex = 29570 
+	StopIndex = 29835 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2657
+	Flags = 0
+	Length = 4.874735 m
+	RealLength = 636.791870 m
+	Start = 287.259491 m
+	StartIndex = 29835 
+	StopIndex = 30207 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2658
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 631.917175 m
+	Start = 292.134216 m
+	StartIndex = 30207 
+	StopIndex = 30481 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2659
+	Flags = 0
+	Length = 4.830700 m
+	RealLength = 627.042603 m
+	Start = 297.008942 m
+	StartIndex = 30481 
+	StopIndex = 30914 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2660
+	Flags = 0
+	Length = 5.025665 m
+	RealLength = 622.211792 m
+	Start = 301.839630 m
+	StartIndex = 30914 
+	StopIndex = 31262 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2661
+	Flags = 0
+	Length = 4.824431 m
+	RealLength = 617.186035 m
+	Start = 306.865295 m
+	StartIndex = 31262 
+	StopIndex = 31499 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2662
+	Flags = 0
+	Length = 4.824338 m
+	RealLength = 612.361633 m
+	Start = 311.689728 m
+	StartIndex = 31499 
+	StopIndex = 31854 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2663
+	Flags = 0
+	Length = 4.881116 m
+	RealLength = 607.537292 m
+	Start = 316.514069 m
+	StartIndex = 31854 
+	StopIndex = 32197 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2664
+	Flags = 0
+	Length = 4.975287 m
+	RealLength = 602.656311 m
+	Start = 321.395203 m
+	StartIndex = 32197 
+	StopIndex = 32554 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2665
+	Flags = 0
+	Length = 4.774109 m
+	RealLength = 597.680908 m
+	Start = 326.370483 m
+	StartIndex = 32554 
+	StopIndex = 32884 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2666
+	Flags = 0
+	Length = 5.026298 m
+	RealLength = 592.906799 m
+	Start = 331.144592 m
+	StartIndex = 32884 
+	StopIndex = 33197 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2667
+	Flags = 0
+	Length = 4.679751 m
+	RealLength = 587.880493 m
+	Start = 336.170898 m
+	StartIndex = 33197 
+	StopIndex = 33491 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2668
+	Flags = 0
+	Length = 4.975361 m
+	RealLength = 583.200806 m
+	Start = 340.850647 m
+	StartIndex = 33491 
+	StopIndex = 33839 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2669
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 578.225403 m
+	Start = 345.825989 m
+	StartIndex = 33839 
+	StopIndex = 34212 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2670
+	Flags = 0
+	Length = 4.881004 m
+	RealLength = 573.350647 m
+	Start = 350.700714 m
+	StartIndex = 34212 
+	StopIndex = 34660 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2671
+	Flags = 0
+	Length = 4.723731 m
+	RealLength = 568.469666 m
+	Start = 355.581726 m
+	StartIndex = 34660 
+	StopIndex = 34999 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2672
+	Flags = 0
+	Length = 5.176689 m
+	RealLength = 563.745972 m
+	Start = 360.305450 m
+	StartIndex = 34999 
+	StopIndex = 35629 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2673
+	Flags = 0
+	Length = 4.925020 m
+	RealLength = 558.569275 m
+	Start = 365.482147 m
+	StartIndex = 35629 
+	StopIndex = 36030 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2674
+	Flags = 0
+	Length = 4.780359 m
+	RealLength = 553.644226 m
+	Start = 370.407166 m
+	StartIndex = 36030 
+	StopIndex = 36385 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2675
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 548.863831 m
+	Start = 375.187531 m
+	StartIndex = 36385 
+	StopIndex = 36818 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2676
+	Flags = 0
+	Length = 4.925057 m
+	RealLength = 543.989136 m
+	Start = 380.062225 m
+	StartIndex = 36818 
+	StopIndex = 37170 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2677
+	Flags = 0
+	Length = 4.875349 m
+	RealLength = 539.064087 m
+	Start = 384.987305 m
+	StartIndex = 37170 
+	StopIndex = 37476 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2678
+	Flags = 0
+	Length = 4.931308 m
+	RealLength = 534.188660 m
+	Start = 389.862640 m
+	StartIndex = 37476 
+	StopIndex = 37747 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2679
+	Flags = 0
+	Length = 4.925096 m
+	RealLength = 529.257385 m
+	Start = 394.793945 m
+	StartIndex = 37747 
+	StopIndex = 38243 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2680
+	Flags = 0
+	Length = 4.925020 m
+	RealLength = 524.332336 m
+	Start = 399.719055 m
+	StartIndex = 38243 
+	StopIndex = 38479 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2681
+	Flags = 0
+	Length = 4.780396 m
+	RealLength = 519.407288 m
+	Start = 404.644073 m
+	StartIndex = 38479 
+	StopIndex = 38757 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2682
+	Flags = 0
+	Length = 4.824338 m
+	RealLength = 514.626892 m
+	Start = 409.424469 m
+	StartIndex = 38757 
+	StopIndex = 39054 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2683
+	Flags = 0
+	Length = 4.824412 m
+	RealLength = 509.802643 m
+	Start = 414.248810 m
+	StartIndex = 39054 
+	StopIndex = 39326 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2684
+	Flags = 0
+	Length = 4.881080 m
+	RealLength = 504.978149 m
+	Start = 419.073212 m
+	StartIndex = 39326 
+	StopIndex = 39720 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2685
+	Flags = 0
+	Length = 4.774071 m
+	RealLength = 500.097107 m
+	Start = 423.954285 m
+	StartIndex = 39720 
+	StopIndex = 40041 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2686
+	Flags = 0
+	Length = 4.874716 m
+	RealLength = 495.322998 m
+	Start = 428.728363 m
+	StartIndex = 40041 
+	StopIndex = 40782 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2687
+	Flags = 0
+	Length = 5.126310 m
+	RealLength = 490.448364 m
+	Start = 433.603088 m
+	StartIndex = 40782 
+	StopIndex = 41590 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2688
+	Flags = 0
+	Length = 4.875349 m
+	RealLength = 485.321960 m
+	Start = 438.729401 m
+	StartIndex = 41590 
+	StopIndex = 42167 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2689
+	Flags = 0
+	Length = 4.830738 m
+	RealLength = 480.446655 m
+	Start = 443.604736 m
+	StartIndex = 42167 
+	StopIndex = 42699 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2690
+	Flags = 0
+	Length = 4.975287 m
+	RealLength = 475.615967 m
+	Start = 448.435486 m
+	StartIndex = 42699 
+	StopIndex = 43119 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2691
+	Flags = 0
+	Length = 4.925057 m
+	RealLength = 470.640594 m
+	Start = 453.410767 m
+	StartIndex = 43119 
+	StopIndex = 43740 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2692
+	Flags = 0
+	Length = 4.830700 m
+	RealLength = 465.715546 m
+	Start = 458.335815 m
+	StartIndex = 43740 
+	StopIndex = 44240 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2693
+	PPICLabel = CFRC in logs
+	Flags = 64
+	Length = 5.025702 m
+	RealLength = 460.885071 m
+	Start = 463.166534 m
+	StartIndex = 44240 
+	StopIndex = 46926 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2700
+	Flags = 0
+	Length = 5.170326 m
+	RealLength = 455.857544 m
+	Start = 468.192230 m
+	StartIndex = 46926 
+	StopIndex = 52492 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2701
+	Flags = 1
+	Length = 4.881004 m
+	RealLength = 450.688812 m
+	Start = 473.362549 m
+	StartIndex = 52492 
+	StopIndex = 53162 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.975386, 0.083387, 1.031419, 0.018479, 1.627023 m, 52664
+	Defect = 0.969433, 0.087993, 1.031170, 0.015954, 2.441006 m, 52754
+[End]
+[Joint]
+	Label = 2702
+	Flags = 0
+	Length = 5.025665 m
+	RealLength = 445.807800 m
+	Start = 478.243561 m
+	StartIndex = 53162 
+	StopIndex = 56061 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2703
+	Flags = 0
+	Length = 4.925096 m
+	RealLength = 440.782135 m
+	Start = 483.269226 m
+	StartIndex = 56061 
+	StopIndex = 56482 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2704
+	Flags = 1
+	Length = 4.824412 m
+	RealLength = 435.857086 m
+	Start = 488.194305 m
+	StartIndex = 56482 
+	StopIndex = 56845 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.952762, 0.100079, 1.022422, 0.029923, 3.455157 m, 56739
+[End]
+[Joint]
+	Label = 2705
+	Flags = 0
+	Length = 6.020061 m
+	RealLength = 431.032715 m
+	Start = 493.018738 m
+	StartIndex = 56845 
+	StopIndex = 57915 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2706
+	Flags = 1
+	Length = 4.830775 m
+	RealLength = 425.012573 m
+	Start = 499.038788 m
+	StartIndex = 57915 
+	StopIndex = 59001 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.941182, 0.119173, 0.952159, 0.085253, 1.442634 m, 58028
+	Defect = 0.932500, 0.111135, 0.952159, 0.085253, 2.415890 m, 58279
+	Defect = 0.949774, 0.111176, 0.952159, 0.085253, 3.726297 m, 58466
+[End]
+[Joint]
+	Label = 2707
+	Flags = 0
+	Length = 4.975324 m
+	RealLength = 420.181915 m
+	Start = 503.869568 m
+	StartIndex = 59001 
+	StopIndex = 59628 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2708
+	Flags = 0
+	Length = 4.780359 m
+	RealLength = 415.206482 m
+	Start = 508.844879 m
+	StartIndex = 59628 
+	StopIndex = 60857 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2709
+	PPICLabel = CFRC in logs
+	Flags = 64
+	Length = 6.025827 m
+	RealLength = 410.428467 m
+	Start = 513.625244 m
+	StartIndex = 60857 
+	StopIndex = 71183 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2710
+	PPICLabel = CFRC in logs
+	Flags = 64
+	Length = 5.264720 m
+	RealLength = 404.457397 m
+	Start = 519.651062 m
+	StartIndex = 71183 
+	StopIndex = 74187 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2711
+	Flags = 0
+	Length = 5.176540 m
+	RealLength = 399.135651 m
+	Start = 524.915771 m
+	StartIndex = 74187 
+	StopIndex = 83574 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2712
+	PPICLabel = CFRC??
+	Flags = 65
+	Length = 4.679751 m
+	RealLength = 393.960114 m
+	Start = 530.092346 m
+	StartIndex = 83574 
+	StopIndex = 84090 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.918568, 0.121689, 1.010686, 0.072206, 1.845729 m, 83736
+	Defect = 0.916434, 0.126618, 1.010686, 0.072206, 3.137855 m, 83885
+	Defect = 0.927403, 0.138211, 1.020968, 0.095589, 3.859448 m, 83973
+[End]
+[Joint]
+	Label = 2713
+	Flags = 1
+	Length = 4.925020 m
+	RealLength = 389.279236 m
+	Start = 534.772095 m
+	StartIndex = 84090 
+	StopIndex = 84914 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.983485, 0.084252, 1.037903, 0.074879, 0.626641 m, 84438
+[End]
+[Joint]
+	Label = 2714
+	Flags = 0
+	Length = 4.925096 m
+	RealLength = 384.354248 m
+	Start = 539.697083 m
+	StartIndex = 84914 
+	StopIndex = 85374 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2715
+	Flags = 0
+	Length = 4.925653 m
+	RealLength = 379.429199 m
+	Start = 544.622192 m
+	StartIndex = 85374 
+	StopIndex = 86187 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2716
+	Flags = 0
+	Length = 4.880967 m
+	RealLength = 374.503510 m
+	Start = 549.547852 m
+	StartIndex = 86187 
+	StopIndex = 86596 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2717
+	Flags = 1
+	Length = 4.723842 m
+	RealLength = 369.622498 m
+	Start = 554.428833 m
+	StartIndex = 86596 
+	StopIndex = 86990 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.946696, 0.104791, 1.022334, 0.032778, 2.822231 m, 86803
+	Defect = 0.950737, 0.110448, 1.022334, 0.032778, 3.658274 m, 86858
+[End]
+[Joint]
+	Label = 2718
+	Flags = 1
+	Length = 4.975399 m
+	RealLength = 364.898743 m
+	Start = 559.152649 m
+	StartIndex = 86990 
+	StopIndex = 87700 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.925545, 0.071971, 0.964919, 0.059125, 0.680740 m, 87293
+[End]
+[Joint]
+	Label = 2719
+	Flags = 0
+	Length = 4.880930 m
+	RealLength = 359.923401 m
+	Start = 564.128052 m
+	StartIndex = 87700 
+	StopIndex = 88000 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2720
+	Flags = 1
+	Length = 4.774109 m
+	RealLength = 355.042358 m
+	Start = 569.008972 m
+	StartIndex = 88000 
+	StopIndex = 88415 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.960579, 0.092094, 1.021164, 0.022218, 3.193703 m, 88273
+[End]
+[Joint]
+	Label = 2721
+	Flags = 1
+	Length = 5.201766 m
+	RealLength = 350.268341 m
+	Start = 573.783081 m
+	StartIndex = 88415 
+	StopIndex = 94383 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.983166, 0.073690, 1.024447, 0.038933, 0.708087 m, 88762
+[End]
+[Joint]
+	Label = 2722
+	PPICLabel = CFRC in logs
+	Flags = 64
+	Length = 5.302448 m
+	RealLength = 345.292664 m
+	Start = 578.984863 m
+	StartIndex = 94383 
+	StopIndex = 100570 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2723
+	Flags = 1
+	Length = 5.220705 m
+	RealLength = 339.864685 m
+	Start = 584.287292 m
+	StartIndex = 100570 
+	StopIndex = 106615 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.947574, 0.107400, 1.023171, 0.048366, 2.962680 m, 106035
+	Defect = 0.951488, 0.116430, 1.028311, 0.036743, 3.930186 m, 106159
+	Defect = 0.984651, 0.148675, 1.032956, 0.066190, 4.721750 m, 106253
+[End]
+[Joint]
+	Label = 2724
+	Flags = 1
+	Length = 5.025628 m
+	RealLength = 334.543335 m
+	Start = 589.507996 m
+	StartIndex = 106615 
+	StopIndex = 107170 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 1.012297, 0.078006, 1.044668, 0.042806, 0.577267 m, 106695
+[End]
+[Joint]
+	Label = 2725
+	Flags = 0
+	Length = 4.925169 m
+	RealLength = 329.517700 m
+	Start = 594.533630 m
+	StartIndex = 107170 
+	StopIndex = 107747 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2726
+	Flags = 0
+	Length = 5.126869 m
+	RealLength = 324.592651 m
+	Start = 599.458801 m
+	StartIndex = 107747 
+	StopIndex = 111289 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2727
+	PPICLabel = CFRC in logs
+	Flags = 64
+	Length = 4.780396 m
+	RealLength = 319.466980 m
+	Start = 604.585693 m
+	StartIndex = 111289 
+	StopIndex = 114985 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2728
+	Flags = 1
+	Length = 5.076006 m
+	RealLength = 314.685272 m
+	Start = 609.366089 m
+	StartIndex = 114985 
+	StopIndex = 118378 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.989625, 0.060119, 1.032918, 0.029148, 0.750503 m, 117809
+[End]
+[Joint]
+	Label = 2729
+	Flags = 1
+	Length = 4.673389 m
+	RealLength = 309.609344 m
+	Start = 614.442078 m
+	StartIndex = 118378 
+	StopIndex = 119056 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 1.003256, 0.109279, 1.031799, 0.044263, 4.374761 m, 119017
+[End]
+[Joint]
+	Label = 2730
+	Flags = 0
+	Length = 4.780396 m
+	RealLength = 304.935913 m
+	Start = 619.115479 m
+	StartIndex = 119056 
+	StopIndex = 119936 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2731
+	Flags = 0
+	Length = 4.874753 m
+	RealLength = 300.155518 m
+	Start = 623.895874 m
+	StartIndex = 119936 
+	StopIndex = 120686 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2732
+	Flags = 0
+	Length = 4.774332 m
+	RealLength = 294.532288 m
+	Start = 628.770630 m
+	StartIndex = 120686 
+	StopIndex = 121044 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2733
+	Flags = 1
+	Length = 4.679826 m
+	RealLength = 237.211258 m
+	Start = 633.544983 m
+	StartIndex = 121044 
+	StopIndex = 121613 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.962948, 0.057992, 1.021071, 0.009381, 2.506827 m, 121357
+[End]
+[Joint]
+	Label = 2734
+	Flags = 0
+	Length = 4.925096 m
+	RealLength = 232.531525 m
+	Start = 638.224792 m
+	StartIndex = 121613 
+	StopIndex = 122518 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2735
+	Flags = 0
+	Length = 4.780285 m
+	RealLength = 227.606461 m
+	Start = 643.149902 m
+	StartIndex = 122518 
+	StopIndex = 122879 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2736
+	Flags = 0
+	Length = 4.774034 m
+	RealLength = 222.826065 m
+	Start = 647.930176 m
+	StartIndex = 122879 
+	StopIndex = 123200 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2737
+	Flags = 0
+	Length = 4.830663 m
+	RealLength = 218.051956 m
+	Start = 652.704224 m
+	StartIndex = 123200 
+	StopIndex = 123560 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2738
+	Flags = 0
+	Length = 4.774109 m
+	RealLength = 213.221313 m
+	Start = 657.534851 m
+	StartIndex = 123560 
+	StopIndex = 123827 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2739
+	Flags = 0
+	Length = 4.830738 m
+	RealLength = 208.447220 m
+	Start = 662.308960 m
+	StartIndex = 123827 
+	StopIndex = 124127 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2740
+	Flags = 0
+	Length = 4.623123 m
+	RealLength = 203.616516 m
+	Start = 667.139709 m
+	StartIndex = 124127 
+	StopIndex = 124365 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2741
+	Flags = 0
+	Length = 4.830663 m
+	RealLength = 198.993378 m
+	Start = 671.762817 m
+	StartIndex = 124365 
+	StopIndex = 124618 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2742
+	Flags = 0
+	Length = 4.774034 m
+	RealLength = 194.162720 m
+	Start = 676.593506 m
+	StartIndex = 124618 
+	StopIndex = 124878 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2743
+	Flags = 0
+	Length = 4.774778 m
+	RealLength = 189.388626 m
+	Start = 681.367554 m
+	StartIndex = 124878 
+	StopIndex = 125131 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2744
+	Flags = 0
+	Length = 4.670599 m
+	RealLength = 184.613907 m
+	Start = 686.142334 m
+	StartIndex = 125131 
+	StopIndex = 125390 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2745
+	Flags = 0
+	Length = 4.780359 m
+	RealLength = 179.943344 m
+	Start = 690.812927 m
+	StartIndex = 125390 
+	StopIndex = 125644 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2746
+	Flags = 0
+	Length = 4.692327 m
+	RealLength = 175.162964 m
+	Start = 695.593262 m
+	StartIndex = 125644 
+	StopIndex = 125991 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2747
+	Flags = 0
+	Length = 4.912519 m
+	RealLength = 170.470642 m
+	Start = 700.285583 m
+	StartIndex = 125991 
+	StopIndex = 126208 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2748
+	Flags = 0
+	Length = 4.648200 m
+	RealLength = 165.558151 m
+	Start = 705.198120 m
+	StartIndex = 126208 
+	StopIndex = 126440 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2749
+	Flags = 1
+	Length = 4.560168 m
+	RealLength = 160.909943 m
+	Start = 709.846313 m
+	StartIndex = 126440 
+	StopIndex = 126670 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.821173, 0.112726, 0.923951, 0.080301, 0.759394 m, 126481
+	Defect = 0.864967, 0.080643, 0.910520, 0.041608, 1.457865 m, 126515
+	Defect = 0.887635, 0.055478, 0.910520, 0.041608, 2.691486 m, 126571
+	Defect = 0.853714, 0.101292, 0.927870, 0.075737, 3.677549 m, 126618
+[End]
+[Joint]
+	Label = 2750
+	Flags = 1
+	Length = 4.736381 m
+	RealLength = 156.349701 m
+	Start = 714.406494 m
+	StartIndex = 126670 
+	StopIndex = 127222 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.883174, 0.056902, 0.921020, 0.009427, 2.452373 m, 127055
+	Defect = 0.885284, 0.055797, 0.921020, 0.009427, 3.582568 m, 127124
+[End]
+[Joint]
+	Label = 2751
+	Flags = 0
+	Length = 4.956498 m
+	RealLength = 151.613327 m
+	Start = 719.142883 m
+	StartIndex = 127222 
+	StopIndex = 127714 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2752
+	Flags = 0
+	Length = 4.604296 m
+	RealLength = 146.656830 m
+	Start = 724.099365 m
+	StartIndex = 127714 
+	StopIndex = 128044 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2753
+	Flags = 0
+	Length = 4.780285 m
+	RealLength = 142.052582 m
+	Start = 728.703674 m
+	StartIndex = 128044 
+	StopIndex = 128416 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2754
+	Flags = 0
+	Length = 4.762128 m
+	RealLength = 137.272232 m
+	Start = 733.483948 m
+	StartIndex = 128416 
+	StopIndex = 128690 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2755
+	Flags = 0
+	Length = 4.692327 m
+	RealLength = 132.510101 m
+	Start = 738.246094 m
+	StartIndex = 128690 
+	StopIndex = 128951 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2756
+	Flags = 0
+	Length = 4.912593 m
+	RealLength = 127.817772 m
+	Start = 742.938416 m
+	StartIndex = 128951 
+	StopIndex = 129227 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2757
+	Flags = 0
+	Length = 4.648274 m
+	RealLength = 122.905296 m
+	Start = 747.851013 m
+	StartIndex = 129227 
+	StopIndex = 129500 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2758
+	Flags = 0
+	Length = 4.868391 m
+	RealLength = 118.257027 m
+	Start = 752.499268 m
+	StartIndex = 129500 
+	StopIndex = 129772 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2759
+	Flags = 0
+	Length = 4.648274 m
+	RealLength = 113.388580 m
+	Start = 757.367676 m
+	StartIndex = 129772 
+	StopIndex = 130041 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2760
+	Flags = 0
+	Length = 4.736306 m
+	RealLength = 108.740295 m
+	Start = 762.015930 m
+	StartIndex = 130041 
+	StopIndex = 130310 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2761
+	Flags = 0
+	Length = 4.824338 m
+	RealLength = 104.003922 m
+	Start = 766.752258 m
+	StartIndex = 130310 
+	StopIndex = 130844 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2762
+	Flags = 0
+	Length = 4.604296 m
+	RealLength = 99.179604 m
+	Start = 771.576599 m
+	StartIndex = 130844 
+	StopIndex = 131350 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2763
+	Flags = 0
+	Length = 4.780359 m
+	RealLength = 94.575356 m
+	Start = 776.180847 m
+	StartIndex = 131350 
+	StopIndex = 131794 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2764
+	PPICLabel = CFRC??
+	Flags = 65
+	Length = 4.604370 m
+	RealLength = 89.795006 m
+	Start = 780.961243 m
+	StartIndex = 131794 
+	StopIndex = 132163 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.901559, 0.117194, 0.982082, 0.066466, 1.737047 m, 131917
+	Defect = 0.900446, 0.118968, 0.982082, 0.066466, 2.679130 m, 131977
+	Defect = 0.907965, 0.117544, 0.982082, 0.066466, 3.733279 m, 132058
+[End]
+[Joint]
+	Label = 2765
+	Flags = 0
+	Length = 4.868466 m
+	RealLength = 85.190704 m
+	Start = 785.565613 m
+	StartIndex = 132163 
+	StopIndex = 133026 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2766
+	Flags = 0
+	Length = 4.850160 m
+	RealLength = 80.322258 m
+	Start = 790.434082 m
+	StartIndex = 133026 
+	StopIndex = 133388 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2767
+	Flags = 0
+	Length = 4.780210 m
+	RealLength = 75.472061 m
+	Start = 795.284241 m
+	StartIndex = 133388 
+	StopIndex = 133842 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2768
+	Flags = 0
+	Length = 4.604221 m
+	RealLength = 70.691765 m
+	Start = 800.064453 m
+	StartIndex = 133842 
+	StopIndex = 134158 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2769
+	Flags = 0
+	Length = 4.780434 m
+	RealLength = 66.087509 m
+	Start = 804.668640 m
+	StartIndex = 134158 
+	StopIndex = 134483 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2770
+	Flags = 0
+	Length = 4.560243 m
+	RealLength = 61.307129 m
+	Start = 809.449097 m
+	StartIndex = 134483 
+	StopIndex = 134768 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2771
+	Flags = 0
+	Length = 4.780359 m
+	RealLength = 56.746895 m
+	Start = 814.009338 m
+	StartIndex = 134768 
+	StopIndex = 135122 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2772
+	Flags = 0
+	Length = 4.692327 m
+	RealLength = 51.966522 m
+	Start = 818.789673 m
+	StartIndex = 135122 
+	StopIndex = 135496 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2773
+	Flags = 1
+	Length = 4.736529 m
+	RealLength = 47.274193 m
+	Start = 823.481995 m
+	StartIndex = 135496 
+	StopIndex = 136067 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.951553, 0.082186, 1.019569, 0.013639, 1.907246 m, 135625
+	Defect = 0.938990, 0.085561, 1.012935, 0.025753, 2.789188 m, 135673
+[End]
+[Joint]
+	Label = 2774
+	Flags = 0
+	Length = 4.736157 m
+	RealLength = 42.537842 m
+	Start = 828.218567 m
+	StartIndex = 136067 
+	StopIndex = 136471 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2775
+	Flags = 0
+	Length = 4.648274 m
+	RealLength = 37.801491 m
+	Start = 832.954712 m
+	StartIndex = 136471 
+	StopIndex = 136927 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2776
+	Flags = 0
+	Length = 4.736381 m
+	RealLength = 33.153198 m
+	Start = 837.602966 m
+	StartIndex = 136927 
+	StopIndex = 137267 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2777
+	Flags = 0
+	Length = 4.718000 m
+	RealLength = 28.416849 m
+	Start = 842.339355 m
+	StartIndex = 137267 
+	StopIndex = 137588 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2778
+	Flags = 0
+	Length = 4.692327 m
+	RealLength = 23.698830 m
+	Start = 847.057373 m
+	StartIndex = 137588 
+	StopIndex = 137933 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2779
+	Flags = 0
+	Length = 4.736455 m
+	RealLength = 19.006508 m
+	Start = 851.749695 m
+	StartIndex = 137933 
+	StopIndex = 138230 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2780
+	Flags = 1
+	Length = 4.780285 m
+	RealLength = 14.270158 m
+	Start = 856.486145 m
+	StartIndex = 138230 
+	StopIndex = 138849 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.939585, 0.063336, 0.989691, 0.005120, 1.927105 m, 138415
+[End]
+[Joint]
+	Label = 2781
+	Flags = 0
+	Length = 4.780359 m
+	RealLength = 9.489775 m
+	Start = 861.266418 m
+	StartIndex = 138849 
+	StopIndex = 139178 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2782
+	Flags = 0
+	Length = 4.709443 m
+	RealLength = 4.709394 m
+	Start = 866.046814 m
+	StartIndex = 139178 
+	StopIndex = 139461 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2783
+	Flags = 0
+	Length = 4.763467 m
+	RealLength = 53.295162 m
+	Start = 870.756226 m
+	StartIndex = 139461 
+	StopIndex = 139790 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2784
+	Flags = 0
+	Length = 4.692030 m
+	RealLength = 48.531853 m
+	Start = 875.519714 m
+	StartIndex = 139790 
+	StopIndex = 140109 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2785
+	Flags = 0
+	Length = 4.824412 m
+	RealLength = 43.839626 m
+	Start = 880.211731 m
+	StartIndex = 140109 
+	StopIndex = 140401 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2786
+	Flags = 0
+	Length = 4.780508 m
+	RealLength = 39.015213 m
+	Start = 885.036133 m
+	StartIndex = 140401 
+	StopIndex = 141433 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2787
+	PPICLabel = CFRC??
+	Flags = 64
+	Length = 5.358929 m
+	RealLength = 34.234833 m
+	Start = 889.816650 m
+	StartIndex = 141433 
+	StopIndex = 145678 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2788
+	Flags = 0
+	Length = 5.070277 m
+	RealLength = 28.875761 m
+	Start = 895.175598 m
+	StartIndex = 145678 
+	StopIndex = 147962 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2789
+	Flags = 0
+	Length = 4.824412 m
+	RealLength = 23.805490 m
+	Start = 900.245850 m
+	StartIndex = 147962 
+	StopIndex = 148707 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2790
+	Flags = 1
+	Length = 4.736381 m
+	RealLength = 18.981079 m
+	Start = 905.070251 m
+	StartIndex = 148707 
+	StopIndex = 149510 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.935674, 0.060776, 0.990928, 0.021387, 1.865373 m, 149038
+	Defect = 0.907875, 0.103863, 0.990928, 0.021387, 2.912853 m, 149213
+	Defect = 0.956626, 0.126730, 1.030591, 0.056759, 4.294158 m, 149451
+[End]
+[Joint]
+	Label = 2791
+	Flags = 0
+	Length = 4.956498 m
+	RealLength = 14.244727 m
+	Start = 909.806641 m
+	StartIndex = 149510 
+	StopIndex = 150298 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2792
+	Flags = 0
+	Length = 4.824487 m
+	RealLength = 9.288224 m
+	Start = 914.763123 m
+	StartIndex = 150298 
+	StopIndex = 150646 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2800
+	Flags = 1
+	Length = 2.114327 m
+	RealLength = 4.463799 m
+	Start = 919.587646 m
+	StartIndex = 150646 
+	StopIndex = 150999 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+	Defect = 0.935060, 0.116574, 0.990121, 0.061537, 0.896317 m, 150809
+[End]
+[Joint]
+	Flags = 0
+	Length = 0.000000 m
+	RealLength = 0.000000 m
+	Start = 921.701965 m
+	StartIndex = 150999 
+	StopIndex = 150999 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Flags = 0
+	Length = 0.781273 m
+	RealLength = 2.177281 m
+	Start = 921.701965 m
+	StartIndex = 150999 
+	StopIndex = 152982 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Flags = 0
+	Length = 0.000000 m
+	RealLength = 0.000000 m
+	Start = 922.483215 m
+	StartIndex = 152982 
+	StopIndex = 152982 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Flags = 0
+	Length = 1.396008 m
+	RealLength = 1.396008 m
+	Start = 922.483215 m
+	StartIndex = 152982 
+	StopIndex = 156153 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Flags = 0
+	Length = 0.048369 m
+	RealLength = 0.048369 m
+	Start = 923.879333 m
+	StartIndex = 156153 
+	StopIndex = 156185 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[Joint]
+	Label = 2794
+	Flags = 0
+	Length = -158.697586 m
+	RealLength = 0.123735 m
+	Start = 923.927612 m
+	StartIndex = 156185 
+	StopIndex = 130218 
+	Station = 0.000000 m
+	BellAtStart = TRUE
+	DefectCategory = 0
+[End]
+[EndJoints]
