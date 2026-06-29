@@ -4,6 +4,12 @@ Velocity-Normalized Multi-Channel State-Space Learning for Drift-Robust Joint Se
 
 ![methodology](/assets/PipeNDT_v1.png)
 
+## Contributions:
+- First velocity-normalized multi-channel selective-SSM for long-range NDT.
+- Learned low-rank common-mode baseline as the drift-robust, label-free substitute for physics.
+- Spatial×spectral×detector fusion justified by measured complementarity/contrast.
+- Genuine linear-complexity long-range inference where prior work used quadratic Transformers or fabricated state-space models.
+
 ## Experiment Plan — SST-SSM for ECT Pipe Inspection
 
 ## Claims
